@@ -1,0 +1,2 @@
+python stream_receiver.py
+pause
